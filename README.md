@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x00. AirBnB clone - The console
 #description
 The website will link the users to the rooms in houses available for renting by house owners
@@ -39,3 +40,6 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
+=======
+Our airbnb project
+>>>>>>> fe4e833e033ac08160154e70e95dafda502f7000
