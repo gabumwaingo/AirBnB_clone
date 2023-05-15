@@ -11,7 +11,7 @@ class BaseModel:
     """Other classes will inherit from this class"""
 
     def __init__(self, *args, **kwargs):
-        """Initializes instance 
+        """Initializes instance
 
         Args:
             - *args: list of arguments
